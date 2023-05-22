@@ -38,7 +38,6 @@ do fast search in the cached content.
 
 ```ts
 import { CompleteFileSystemCache } from 'complete-file-system-cache'
-import { join } from 'path'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
