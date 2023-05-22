@@ -1,0 +1,44 @@
+{
+  "name": "complete-file-system-cache",
+  "version": "1.3.0",
+  "description": "This library can be used to sync a folder from your device to GitHub. This is a fun project and I do not recommend to push large files.",
+  "main": "dist/complete-file-system-cache.cjs.js",
+  "module": "dist/complete-file-system-cache.esm.js",
+  "types": "dist/complete-file-system-cache.d.ts",
+  "type": "module",
+  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/datomarjanidze/complete-file-system-cache#readme",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rimraf dist && rollup --config rollup.config.ts --configPlugin @rollup/plugin-typescript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datomarjanidze/complete-file-system-cache.git"
+  },
+  "keywords": [
+    "file system cache",
+    "cache",
+    "file path cache"
+  ],
+  "bugs": {
+    "url": "https://github.com/datomarjanidze/complete-file-system-cache/issues"
+  },
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.0",
+    "@types/node": "^18.16.3",
+    "@typescript-eslint/eslint-plugin": "^5.59.1",
+    "eslint": "^8.39.0",
+    "eslint-config-standard-with-typescript": "^34.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "rimraf": "^5.0.0",
+    "rollup": "^3.21.1",
+    "rollup-plugin-dts": "^5.3.0",
+    "typescript": "^5.0.4"
+  }
+}
