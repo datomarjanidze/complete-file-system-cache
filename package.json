@@ -1,7 +1,7 @@
 {
   "name": "complete-file-system-cache",
-  "version": "1.3.4",
-  "description": "This library can be used to sync a folder from your device to GitHub. This is a fun project and I do not recommend to push large files.",
+  "version": "1.3.5",
+  "description": "Caches every file that exists in the file system and stores the whole file system files",
   "main": "dist/complete-file-system-cache.cjs.js",
   "module": "dist/complete-file-system-cache.esm.js",
   "types": "dist/complete-file-system-cache.d.ts",

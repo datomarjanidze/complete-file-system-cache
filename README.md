@@ -1,4 +1,4 @@
-## Complete File System Cache v1.3.4 Documentation
+## Complete File System Cache v1.3.5 Documentation
 
 <p align="center">
   <a href="https://www.npmjs.com/package/complete-file-system-cache" target="_blank"><img src="https://img.shields.io/npm/v/complete-file-system-cache.svg" alt="NPM Version" /></a>
