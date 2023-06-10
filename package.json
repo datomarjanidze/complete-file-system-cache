@@ -1,6 +1,6 @@
 {
   "name": "complete-file-system-cache",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "description": "Caches every file that exists in the file system and stores the whole file system files",
   "main": "dist/complete-file-system-cache.cjs.js",
   "module": "dist/complete-file-system-cache.esm.js",

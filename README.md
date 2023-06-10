@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/complete-file-system-cache" target="_blank"><img src="https://img.shields.io/npm/v/complete-file-system-cache.svg" alt="NPM Version" /></a>
   <a href="https://www.npmjs.com/package/complete-file-system-cache" target="_blank"><img src="https://img.shields.io/npm/l/complete-file-system-cache.svg" alt="Package License" /></a>
-  <a href="https://www.npmjs.com/package/complete-file-system-cache" target="_blank"><img src="https://img.shields.io/npm/dm/complete-file-system-cache.svg" alt="NPM Downloads" /></a>
 </p>
 
 ### Table of contents
