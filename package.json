@@ -5,7 +5,7 @@
   "main": "dist/complete-file-system-cache.cjs.js",
   "module": "dist/complete-file-system-cache.esm.js",
   "types": "dist/complete-file-system-cache.d.ts",
-  "author": "Dato Marjanidze <datomarjanidze10@gmail.com>",
+  "author": "Dato Marjanidze",
   "license": "ISC",
   "homepage": "https://github.com/datomarjanidze/complete-file-system-cache#readme",
   "files": [
